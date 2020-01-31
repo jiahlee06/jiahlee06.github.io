@@ -43,7 +43,7 @@ social_media:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+   website: https://scholar.google.com/citations?hl=en&user=7UcRYsgAAAAJ
   # youtube: your_username
 
 topics:
@@ -56,3 +56,12 @@ topics:
   - name: Statistical Inference
     #web_url: https://github.com/topics/sass
     #image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+
+skills:
+  - name: Python
+  - name: R    
+  - name: GAMS
+  - name: SQL
+  - name: Microsoft Excel VBA
+  
+  
