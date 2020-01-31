@@ -23,6 +23,8 @@
         {% include skills.html %}
       </div>
     {% endif %}
+    
+    {% include publication.html %}
 
     {% unless posts_total == 0 %}
       <div class="my-6">
@@ -53,6 +55,8 @@
         {% if site.skills %}
           {% include skills.html %}
         {% endif %}
+        
+        {% include publication.html %}
         
         {% unless posts_total == 0 %}
           {% include thoughts.html %}
